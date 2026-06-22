@@ -1,2 +1,2 @@
 print("Hej")
-print("Hallow")
+print("meow")
